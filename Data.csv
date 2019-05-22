@@ -1,188 +1,188 @@
-Community,Confidence,Permafrost Occurrence,Permafrost Temperature,Thaw Susceptibility,Massive Ice,Existing Problems,Permafrost Occurrence Label,Permafrost Temperature Label,Thaw Susceptibility Label,Massive Ice Label,Existing Problems Label,Rating Score,Risk Level,Latitude,Longitude
-Akhiok,***,0,0,0,0,0,None,None,None,None,None,0,None,56.9467987341863,-154.173179606555
-Akiachak,**,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,60.9138001924915,-161.449077834511
-Akiak,***,0,0,0,0,0,None,None,None,None,None,0,None,60.9122001555086,-161.21387781055
-Akutan,***,0,0,0,0,0,None,None,None,None,None,0,None,54.1338001131678,-165.776781754343
-Alakanuk,**,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,62.6871008738514,-164.621576957903
-Alatna,**,3,3,3,3,2,Continuous,Warm,High ( > 1 m),Abundant,Moderate,14,High,66.5544992147365,-152.70127230463
-Aleknagik,**,0,0,0,0,0,None,None,None,None,None,0,None,59.2811996017679,-158.626178599217
-Allakaket,*,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,66.5632992057782,-152.644472291772
-Ambler,*,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,67.0854001648057,-157.859472060591
-Anaktuvuk Pass,*,3,1,2,2,2,Continuous,Cold,Medium (0.2 - 0.7 m),Sparse,Moderate,10,Medium,68.1414991629561,-151.739470361589
-Angoon,***,0,0,0,0,0,None,None,None,None,None,0,None,57.4976958019374,-134.584679922333
-Aniak,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,61.5805999547642,-159.550077195589
-Anvik,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.6522001587923,-160.197976466979
-Arctic Village,*,3,2,2,2,2,Continuous,Cool,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,68.1284980417725,-145.535470336811
-Atka,***,0,0,0,0,0,None,None,None,None,None,0,None,52.198600922817,-174.19848359402
-Atmautluak,**,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,60.8573003162271,-162.276377958705
-Atqasuk,*,3,1,2,3,3,Continuous,Cold,Medium (0.2 - 0.7 m),Abundant,Severe,12,High,70.4812003821001,-157.418467355544
-Beaver,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,66.3603982652406,-147.397172418417
-Bethel,**,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,60.802100232061,-161.770577941422
-Bettles,*,3,3,2,1,2,Continuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,11,Medium,66.9163990332605,-151.518771850416
-Birch Creek,*,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,66.2629979804036,-145.817872546427
-Brevig Mission,*,3,3,3,2,2,Continuous,Warm,High ( > 1 m),Sparse,Moderate,13,High,65.3333014579592,-166.487875008419
-Buckland,*,3,2,3,3,3,Continuous,Cool,High ( > 1 m),Abundant,Severe,14,High,65.9780006267084,-161.125473614442
-Cantwell,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,63.3916983444609,-148.95077527413
-Chalkyitsik,**,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,66.6503976328752,-143.727872182349
-Chefornak,*,3,3,3,1,3,Continuous,Warm,High ( > 1 m),None,Severe,13,High,60.1576005540807,-164.282478635831
-Chenega,**,0,0,0,0,0,None,None,None,None,None,0,None,60.0656979855478,-148.010377718686
-Chevak,**,3,3,3,3,3,Continuous,Warm,High ( > 1 m),Abundant,Severe,15,High,61.5310009017339,-165.585877916729
-Chickaloon,***,0,0,0,0,0,None,None,None,None,None,0,None,61.7764981670642,-148.493276543891
-Chignik,***,0,0,0,0,0,None,None,None,None,None,0,None,56.2927993038737,-158.401980155464
-Chignik Lagoon,***,0,0,0,0,0,None,None,None,None,None,0,None,56.3103993252224,-158.537780155912
-Chignik Lake,***,0,0,0,0,0,None,None,None,None,None,0,None,56.2536993529073,-158.763080198568
-Chistochina,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.5663975757695,-144.66417599585
-Chitina,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.5164974848092,-144.441076793372
-Chuathbaluk,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,61.5718999045435,-159.244977173752
-Circle,**,3,3,3,2,2,Continuous,Warm,High ( > 1 m),Sparse,Moderate,13,High,65.8266976470041,-144.066773062906
-Clark's Point,**,0,0,0,0,0,None,None,None,None,None,0,None,58.8352995494528,-158.544178850951
-Copper Center,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,61.9549976503843,-145.305276448477
-Cordova,***,0,0,0,0,0,None,None,None,None,None,0,None,60.5402976494571,-145.758777435211
-Craig,***,0,0,0,0,0,None,None,None,None,None,0,None,55.4758955710651,-133.136781040367
-Crooked Creek,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.8703997485924,-158.105776864733
-Deering,**,3,3,2,2,2,Continuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,12,High,66.0755009080411,-162.724373718198
-Dillingham,***,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,59.040599555119,-158.465578726664
-Diomede,*,3,2,1,1,1,Continuous,Cool,Low (< 0.1 m),None,Minimal,8,Low,65.7589019067781,-168.951475036527
-Eagle,**,2,2,2,2,2,Discontinuous,Cool,Medium (0.2 - 0.7 m),Sparse,Moderate,10,Medium,64.7868970968609,-141.202674236638
-Eek,**,2,3,3,2,3,Discontinuous,Warm,High ( > 1 m),Sparse,Severe,13,High,60.2158002142745,-162.025778342652
-Egegik,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,58.2121993173299,-157.37547911494
-Eklutna,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,61.4609999999111,-149.362000000256
-Ekwok,**,0,0,0,0,0,None,None,None,None,None,0,None,59.3496994301403,-157.476678474758
-Elim,*,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,64.6160006868187,-162.264775062443
-Emmonak,**,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,62.7785008682777,-164.528676875428
-False Pass,***,0,0,0,0,0,None,None,None,None,None,0,None,54.8548998725602,-163.411881213637
-Fort Yukon,**,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,66.5639978987012,-145.258972228079
-Gakona,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.3018976683333,-145.301876184404
-Galena,**,2,3,2,2,1,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Minimal,10,Medium,64.7417998056772,-156.954274412055
-Gambell,*,3,3,1,1,2,Continuous,Warm,Low (< 0.1 m),None,Moderate,10,Medium,63.7769021098894,-171.715177292655
-Golovin,**,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,64.5428008070145,-163.035075225832
-Goodnews Bay,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,59.1220000401722,-161.591978953188
-Grayling,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.9066001610193,-160.06657625652
-Gulkana,**,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,62.2685976782582,-145.371876209564
-Holy Cross,*,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,62.2005000472459,-159.768576766308
-Hoonah,***,0,0,0,0,0,None,None,None,None,None,0,None,58.1087959417061,-135.442379513488
-Hooper Bay,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,61.5218009796732,-166.096077993287
-Hughes,*,1,3,1,1,2,Isolated,Warm,Low (< 0.1 m),None,Moderate,8,Low,66.0488994478274,-154.255572931465
-Huslia,**,1,3,1,1,2,Isolated,Warm,Low (< 0.1 m),None,Moderate,8,Low,65.7017997899216,-156.389173432263
-Hydaburg,***,0,0,0,0,0,None,None,None,None,None,0,None,55.2070955258207,-132.826081191787
-Igiugig,*,0,0,0,0,0,None,None,None,None,None,0,None,59.3269991825692,-155.895478389278
-Iliamna,*,0,0,0,0,0,None,None,None,None,None,0,None,59.7546990612327,-154.906078076317
-Kake,***,0,0,0,0,0,None,None,None,None,None,0,None,56.9771957006021,-133.947180250206
-Kaktovik,**,3,1,3,3,3,Continuous,Cold,High ( > 1 m),Abundant,Severe,13,High,70.1275978118132,-143.615867526008
-Kaltag,**,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,64.3247000677666,-158.723774941995
-Kasaan,***,0,0,0,0,0,None,None,None,None,None,0,None,55.5397954667047,-132.404981092732
-Kasigluk,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,60.8946003579885,-162.519477961582
-Kiana,*,2,3,3,2,2,Discontinuous,Warm,High ( > 1 m),Sparse,Moderate,12,High,66.9717006028679,-160.43727246506
-King Cove,***,0,0,0,0,0,None,None,None,None,None,0,None,55.0606997424574,-162.316081021157
-Kipnuk,**,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,59.9364004943213,-164.037878739608
-Kivalina,**,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,67.7258013822675,-164.535472162176
-Klawock,***,0,0,0,0,0,None,None,None,None,None,0,None,55.5534955657161,-133.099081010556
-Klukwan,***,0,0,0,0,0,None,None,None,None,None,0,None,59.400396037194,-135.895878732986
-Kobuk,*,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,66.9079999783675,-156.881872175776
-Kokhanok,***,0,0,0,0,0,None,None,None,None,None,0,None,59.4399990118369,-154.749178262376
-Koliganek,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,59.7263994319048,-157.285678234302
-Kongiganak,**,3,3,3,2,3,Continuous,Warm,High ( > 1 m),Sparse,Severe,14,High,59.9594003209384,-162.887078592969
-Kotlik,*,1,3,2,1,1,Isolated,Warm,Medium (0.2 - 0.7 m),None,Minimal,8,Low,63.0316007385418,-163.554876554194
-Kotzebue,**,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,66.8959009657008,-162.586872824394
-Koyuk,**,3,3,2,2,2,Continuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,12,High,64.9320005325793,-161.157174640687
-Koyukuk,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,64.8815999452478,-157.704274342007
-Kwethluk,*,2,3,2,2,1,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Minimal,10,Medium,60.8122001804157,-161.435777899572
-Kwigillingok,**,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,59.8771003541498,-163.157578673316
-Larsen Bay,***,0,0,0,0,0,None,None,None,None,None,0,None,57.5373987489593,-153.980579297632
-Levelock,***,0,0,0,0,0,None,None,None,None,None,0,None,59.1124993138666,-156.857478573753
-Lime Village,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.355399272866,-155.436977050207
-Lower Kalskag,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.512100078255,-160.361477318726
-Manley Hot Springs,*,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,64.9958987411115,-150.637173851596
-Manokotak,***,0,0,0,0,0,None,None,None,None,None,0,None,58.9827996397865,-159.053078805531
-Marshall,**,3,3,2,2,2,Continuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,12,High,61.8791003882026,-162.086977238617
-McGrath,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.953399428004,-155.596075861447
-Mekoryuk,**,2,3,3,1,3,Discontinuous,Warm,High ( > 1 m),None,Severe,12,High,60.386400868826,-166.189078741979
-Mentasta Lake,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.9293974486897,-143.797575737196
-Minto,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,65.1521985281697,-149.348273677451
-Mountain Village,*,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,62.0891006694096,-163.728577282341
-Naknek,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,58.7330993045291,-157.00517880264
-Nanwalek,***,0,0,0,0,0,None,None,None,None,None,0,None,59.3543985620661,-151.920178208628
-Napakiak,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,60.6941002527037,-161.970878032298
-Napaskiak,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,60.7078002210578,-161.76077800043
-Nelson Lagoon,***,0,0,0,0,0,None,None,None,None,None,0,None,56.0011996792201,-161.201880509181
-Nenana,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,64.5618984442924,-149.088274240317
-New Stuyahok,*,2,3,2,2,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,11,Medium,59.4502994131662,-157.312978403603
-Newhalen,*,0,0,0,0,0,None,None,None,None,None,0,None,59.7197990569318,-154.896278098086
-Newtok,**,2,3,3,1,3,Discontinuous,Warm,High ( > 1 m),None,Severe,12,High,60.9369006901611,-164.629378185507
-Nightmute,**,2,3,3,2,2,Discontinuous,Warm,High ( > 1 m),Sparse,Moderate,12,High,60.4770006557712,-164.722078492077
-Nikolai,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,63.0134992294196,-154.37407574453
-Nikolski,***,0,0,0,0,0,None,None,None,None,None,0,None,52.9401003713567,-168.860182569022
-Ninilchik,*,0,0,0,0,0,None,None,None,None,None,0,None,60.0431985708619,-151.675777775231
-Noatak,*,3,3,3,3,2,Continuous,Warm,High ( > 1 m),Abundant,Moderate,14,High,67.5718011013874,-162.988472108033
-Nome,*,2,3,3,2,2,Discontinuous,Warm,High ( > 1 m),Sparse,Moderate,12,High,64.497601187871,-165.384075594601
-Nondalton,*,0,0,0,0,0,None,None,None,None,None,0,None,59.9667990698131,-154.856977942905
-Noorvik,*,3,3,3,3,3,Continuous,Warm,High ( > 1 m),Abundant,Severe,15,High,66.8329006944585,-161.043672692728
-Northway Village,*,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,62.9821971411544,-141.951675777359
-Nuiqsut,*,3,1,3,3,3,Continuous,Cold,High ( > 1 m),Abundant,Severe,13,High,70.2171991817788,-150.998867337162
-Nulato,**,2,3,2,1,3,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Severe,11,Medium,64.717799999696,-158.108674529751
-Nunam Iqua,**,2,3,3,1,3,Discontinuous,Warm,High ( > 1 m),None,Severe,12,High,62.5318008936638,-164.848077103597
-Nunapitchuk,*,2,3,3,2,3,Discontinuous,Warm,High ( > 1 m),Sparse,Severe,13,High,60.8965003483974,-162.456577952872
-Old Harbor,***,0,0,0,0,0,None,None,None,None,None,0,None,57.2034986235105,-153.305879443983
-Oscarville,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,60.7226002247605,-161.77137799224
-Ouzinkie,***,0,0,0,0,0,None,None,None,None,None,0,None,57.9224985535749,-152.507079042192
-Pedro Bay,*,0,0,0,0,0,None,None,None,None,None,0,None,59.7859989379721,-154.109278021172
-Perryville,***,0,0,0,0,0,None,None,None,None,None,0,None,55.9115993770113,-159.143380383442
-Pilot Point,*,0,0,0,0,0,None,None,None,None,None,0,None,57.5640992914338,-157.573479471719
-Pilot Station,**,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.9362005211652,-162.891977289894
-Pitkas Point,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,62.031800593935,-163.28697726786
-Platinum,*,0,0,0,0,0,None,None,None,None,None,0,None,59.0120000634224,-161.817279037203
-Point Hope,*,3,2,1,1,1,Continuous,Cool,Low (< 0.1 m),None,Minimal,8,Low,68.3486018222314,-166.734671786116
-Point Lay,**,3,1,3,3,3,Continuous,Cold,High ( > 1 m),Abundant,Severe,13,High,69.7440013188419,-163.00926924439
-Port Graham,***,0,0,0,0,0,None,None,None,None,None,0,None,59.3514985480104,-151.832178207882
-Port Heiden,***,0,0,0,0,0,None,None,None,None,None,0,None,56.9240993975805,-158.661279870594
-Port Lions,***,0,0,0,0,0,None,None,None,None,None,0,None,57.8691986059186,-152.878879081648
-Quinhagak,**,2,3,3,1,3,Discontinuous,Warm,High ( > 1 m),None,Severe,12,High,59.7516001484785,-161.897178614362
-Rampart,*,3,3,2,1,2,Continuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,11,Medium,65.5033986950058,-150.171773340678
-Red Devil,**,0,0,0,0,0,None,None,None,None,None,0,None,61.7822996155396,-157.334676870632
-Ruby,**,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,64.7411995520256,-155.46697430457
-Russian Mission,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.7858002576251,-161.323477222344
-Saint George,***,0,0,0,0,0,None,None,None,None,None,0,None,56.6027009110124,-169.543681218341
-Saint Mary's,*,2,3,2,1,1,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Minimal,9,Medium,62.0523005790523,-163.181077240368
-Saint Michael,**,3,3,3,2,3,Continuous,Warm,High ( > 1 m),Sparse,Severe,14,High,63.4786005374344,-162.037076010202
-Saint Paul,***,0,0,0,0,0,None,None,None,None,None,0,None,57.1225010770705,-170.279581091049
-Salamatof,***,0,0,0,0,0,None,None,None,None,None,0,None,60.617698554787,-151.333377391069
-Sand Point,***,0,0,0,0,0,None,None,None,None,None,0,None,55.3515995144004,-160.475580736371
-Savoonga,**,3,3,3,2,2,Continuous,Warm,High ( > 1 m),Sparse,Moderate,13,High,63.696501908782,-170.476677117791
-Saxman,***,0,0,0,0,0,None,None,None,None,None,0,None,55.3176953516133,-131.594481284419
-Scammon Bay,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,61.8412009342704,-165.581877702772
-Selawik,**,3,2,3,3,3,Continuous,Cool,High ( > 1 m),Abundant,Severe,14,High,66.6046004951891,-160.011872821415
-Seldovia Village,***,0,0,0,0,0,None,None,None,None,None,0,None,59.4742985275738,-151.649978128157
-Shageluk,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,62.6547000504219,-159.532776402127
-Shaktoolik,*,1,2,1,1,1,Isolated,Cool,Low (< 0.1 m),None,Minimal,6,Low,64.3538004834457,-161.194175170014
-Shishmaref,*,3,2,1,1,1,Continuous,Cool,Low (< 0.1 m),None,Minimal,8,Low,66.2557014880353,-166.072674036863
-Shungnak,*,3,3,2,2,2,Continuous,Warm,Medium (0.2 - 0.7 m),Sparse,Moderate,12,High,66.8881000211031,-157.136372221467
-Sleetmute,**,0,0,0,0,0,None,None,None,None,None,0,None,61.7026995820218,-157.170376915871
-South Naknek,*,1,3,2,1,2,Isolated,Warm,Medium (0.2 - 0.7 m),None,Moderate,9,Medium,58.7132993029417,-157.006878812494
-Stebbins,*,2,3,2,2,3,Discontinuous,Warm,Medium (0.2 - 0.7 m),Sparse,Severe,12,High,63.5194005821097,-162.287676007691
-Stevens Village,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,66.0044985391738,-149.084472806944
-Stony River,*,0,0,0,0,0,None,None,None,None,None,0,None,61.7871994952815,-156.588276813712
-Takotna,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,62.9879995086265,-156.061975862651
-Tanacross,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,63.3762973968645,-143.355975385264
-Tanana,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,65.1711990045946,-152.087873724451
-Tatitlek,***,0,0,0,0,0,None,None,None,None,None,0,None,60.8684978172951,-146.681677198705
-Tazlina,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,62.0473976727358,-145.412076375182
-Teller,*,2,2,2,2,2,Discontinuous,Cool,Medium (0.2 - 0.7 m),Sparse,Moderate,10,Medium,65.2637014303444,-166.366975054841
-Tetlin,*,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,63.137997243955,-142.519675621052
-Togiak,*,0,0,0,0,0,None,None,None,None,None,0,None,59.0596998496066,-160.377478874995
-Toksook Bay,**,2,3,3,2,2,Discontinuous,Warm,High ( > 1 m),Sparse,Moderate,12,High,60.5331007208107,-165.108978505641
-Tuluksak,**,2,3,1,1,2,Discontinuous,Warm,Low (< 0.1 m),None,Moderate,9,Medium,61.0987001333611,-160.956477661182
-Tuntutuliak,**,2,3,3,2,3,Discontinuous,Warm,High ( > 1 m),Sparse,Severe,13,High,60.3428003274497,-162.676378332848
-Tununak,**,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,60.5862007477827,-165.251378490947
-Twin Hills,*,0,0,0,0,0,None,None,None,None,None,0,None,59.0750998356851,-160.280578856664
-Tyonek,***,0,0,0,0,0,None,None,None,None,None,0,None,61.0680985546674,-151.143377080792
-Ugashik,***,0,0,0,0,0,None,None,None,None,None,0,None,57.5083999996634,-157.399800000253
-Umkumiute,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,60.4983,-165.199
-Unalakleet,**,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,63.876900371354,-160.794775539682
-Unalaska,***,0,0,0,0,0,None,None,None,None,None,0,None,53.8728001828429,-166.530081942244
-Upper Kalskag,*,2,3,2,1,2,Discontinuous,Warm,Medium (0.2 - 0.7 m),None,Moderate,10,Medium,61.5371000721272,-160.312277297187
-Utqiaġvik,***,3,1,3,3,3,Continuous,Cold,High ( > 1 m),Abundant,Severe,13,High,71.2891003319796,-156.768465909681
-Venetie,*,2,3,1,1,1,Discontinuous,Warm,Low (< 0.1 m),None,Minimal,8,Low,67.0166981328311,-146.421771687617
-Wainwright,**,3,1,3,3,3,Continuous,Cold,High ( > 1 m),Abundant,Severe,13,High,70.6402008701844,-160.027667409119
-Wales,*,3,2,1,1,1,Continuous,Cool,Low (< 0.1 m),None,Minimal,8,Low,65.6052017488447,-168.08617502456
-White Mountain,*,1,3,1,1,1,Isolated,Warm,Low (< 0.1 m),None,Minimal,7,Low,64.681500883403,-163.411875151707
-Yakutat,*,0,0,0,0,0,None,None,None,None,None,0,None,59.5464966424361,-139.722778335928
+Community,Confidence,Permafrost Occurrence,Permafrost Temperature,Thaw Susceptibility,Massive Ice,Existing Problems,Permafrost Occurrence Label,Permafrost Temperature Label,Thaw Susceptibility Label,Massive Ice Label,Existing Problems Label,Permafrost Occurrence Table,Permafrost Temperature Table,Thaw Susceptibility Table,Massive Ice Table,Existing Problems Table,Rating Score,Risk Level,Latitude,Longitude
+Akhiok,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.94679873,-154.1731796
+Akiachak,**,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,60.91380019,-161.4490778
+Akiak,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,60.91220016,-161.2138778
+Akutan,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,54.13380011,-165.7767818
+Alakanuk,**,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,62.68710087,-164.621577
+Alatna,**,3,3,3,3,2,Continuous,Warm,High,Abundant,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Moderate (2),14,High,66.55449921,-152.7012723
+Aleknagik,**,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.2811996,-158.6261786
+Allakaket,*,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,66.56329921,-152.6444723
+Ambler,*,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,67.08540016,-157.8594721
+Anaktuvuk Pass,*,3,1,2,2,2,Continuous,Cold,Medium, Sparse,Moderate,Continuous (3),Cold: MAGT < -5°C (1),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),10,Medium,68.14149916,-151.7394704
+Angoon,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.4976958,-134.5846799
+Aniak,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,61.58059995,-159.5500772
+Anvik,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.65220016,-160.1979765
+Arctic Village,*,3,2,2,2,2,Continuous,Cool,Medium, Sparse,Moderate,Continuous (3),Cool: MAGT = -5 – -2°C (2),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,68.12849804,-145.5354703
+Atka,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,52.19860092,-174.1984836
+Atmautluak,**,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,60.85730032,-162.276378
+Atqasuk,*,3,1,2,3,3,Continuous,Cold,Medium,Abundant,Severe,Continuous (3),Cold: MAGT < -5°C (1),Medium: 0.2 - 0.7 m (2),Abundant: large ice wedges and buried ice (3),Severe (3),12,High,70.48120038,-157.4184674
+Beaver,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,66.36039827,-147.3971724
+Bethel,**,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,60.80210023,-161.7705779
+Bettles,*,3,3,2,1,2,Continuous,Warm,Medium,Absent,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),11,Medium,66.91639903,-151.5187719
+Birch Creek,*,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,66.26299798,-145.8178725
+Brevig Mission,*,3,3,3,2,2,Continuous,Warm,High, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),13,High,65.33330146,-166.487875
+Buckland,*,3,2,3,3,3,Continuous,Cool,High,Abundant,Severe,Continuous (3),Cool: MAGT = -5 – -2°C (2),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),14,High,65.97800063,-161.1254736
+Cantwell,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,63.39169834,-148.9507753
+Chalkyitsik,**,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,66.65039763,-143.7278722
+Chefornak,*,3,3,3,1,3,Continuous,Warm,High,Absent,Severe,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Absent: no massive ice (1),Severe (3),13,High,60.15760055,-164.2824786
+Chenega,**,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,60.06569799,-148.0103777
+Chevak,**,3,3,3,3,3,Continuous,Warm,High,Abundant,Severe,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),15,High,61.5310009,-165.5858779
+Chickaloon,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,61.77649817,-148.4932765
+Chignik,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.2927993,-158.4019802
+Chignik Lagoon,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.31039933,-158.5377802
+Chignik Lake,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.25369935,-158.7630802
+Chistochina,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.56639758,-144.664176
+Chitina,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.51649748,-144.4410768
+Chuathbaluk,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,61.5718999,-159.2449772
+Circle,**,3,3,3,2,2,Continuous,Warm,High, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),13,High,65.82669765,-144.0667731
+Clark's Point,**,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,58.83529955,-158.5441789
+Copper Center,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,61.95499765,-145.3052764
+Cordova,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,60.54029765,-145.7587774
+Craig,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.47589557,-133.136781
+Crooked Creek,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.87039975,-158.1057769
+Deering,**,3,3,2,2,2,Continuous,Warm,Medium, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,66.07550091,-162.7243737
+Dillingham,***,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,59.04059956,-158.4655787
+Diomede,*,3,2,1,1,1,Continuous,Cool,Low,Absent,Minimal,Continuous (3),Cool: MAGT = -5 – -2°C (2),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,65.75890191,-168.951475
+Eagle,**,2,2,2,2,2,Discontinuous,Cool,Medium, Sparse,Moderate,Discontinuous (2),Cool: MAGT = -5 – -2°C (2),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),10,Medium,64.7868971,-141.2026742
+Eek,**,2,3,3,2,3,Discontinuous,Warm,High, Sparse,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Severe (3),13,High,60.21580021,-162.0257783
+Egegik,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,58.21219932,-157.3754791
+Eklutna,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,61.461,-149.362
+Ekwok,**,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.34969943,-157.4766785
+Elim,*,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,64.61600069,-162.2647751
+Emmonak,**,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,62.77850087,-164.5286769
+False Pass,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,54.85489987,-163.4118812
+Fort Yukon,**,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,66.5639979,-145.2589722
+Gakona,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.30189767,-145.3018762
+Galena,**,2,3,2,2,1,Discontinuous,Warm,Medium, Sparse,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Minimal or minor (1),10,Medium,64.74179981,-156.9542744
+Gambell,*,3,3,1,1,2,Continuous,Warm,Low,Absent,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Moderate (2),10,Medium,63.77690211,-171.7151773
+Golovin,**,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,64.54280081,-163.0350752
+Goodnews Bay,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,59.12200004,-161.591979
+Grayling,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.90660016,-160.0665763
+Gulkana,**,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,62.26859768,-145.3718762
+Holy Cross,*,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,62.20050005,-159.7685768
+Hoonah,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,58.10879594,-135.4423795
+Hooper Bay,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,61.52180098,-166.096078
+Hughes,*,1,3,1,1,2,Isolated,Warm,Low,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Moderate (2),8,Low,66.04889945,-154.2555729
+Huslia,**,1,3,1,1,2,Isolated,Warm,Low,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Moderate (2),8,Low,65.70179979,-156.3891734
+Hydaburg,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.20709553,-132.8260812
+Igiugig,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.32699918,-155.8954784
+Iliamna,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.75469906,-154.9060781
+Kake,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.9771957,-133.9471803
+Kaktovik,**,3,1,3,3,3,Continuous,Cold,High,Abundant,Severe,Continuous (3),Cold: MAGT < -5°C (1),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),13,High,70.12759781,-143.6158675
+Kaltag,**,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,64.32470007,-158.7237749
+Kasaan,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.53979547,-132.4049811
+Kasigluk,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,60.89460036,-162.519478
+Kiana,*,2,3,3,2,2,Discontinuous,Warm,High, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,66.9717006,-160.4372725
+King Cove,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.06069974,-162.316081
+Kipnuk,**,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,59.93640049,-164.0378787
+Kivalina,**,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,67.72580138,-164.5354722
+Klawock,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.55349557,-133.099081
+Klukwan,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.40039604,-135.8958787
+Kobuk,*,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,66.90799998,-156.8818722
+Kokhanok,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.43999901,-154.7491783
+Koliganek,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,59.72639943,-157.2856782
+Kongiganak,**,3,3,3,2,3,Continuous,Warm,High, Sparse,Severe,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Severe (3),14,High,59.95940032,-162.8870786
+Kotlik,*,1,3,2,1,1,Isolated,Warm,Medium,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Minimal or minor (1),8,Low,63.03160074,-163.5548766
+Kotzebue,**,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,66.89590097,-162.5868728
+Koyuk,**,3,3,2,2,2,Continuous,Warm,Medium, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,64.93200053,-161.1571746
+Koyukuk,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,64.88159995,-157.7042743
+Kwethluk,*,2,3,2,2,1,Discontinuous,Warm,Medium, Sparse,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Minimal or minor (1),10,Medium,60.81220018,-161.4357779
+Kwigillingok,**,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,59.87710035,-163.1575787
+Larsen Bay,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.53739875,-153.9805793
+Levelock,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.11249931,-156.8574786
+Lime Village,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.35539927,-155.4369771
+Lower Kalskag,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.51210008,-160.3614773
+Manley Hot Springs,*,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,64.99589874,-150.6371739
+Manokotak,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,58.98279964,-159.0530788
+Marshall,**,3,3,2,2,2,Continuous,Warm,Medium, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,61.87910039,-162.0869772
+McGrath,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.95339943,-155.5960759
+Mekoryuk,**,2,3,3,1,3,Discontinuous,Warm,High,Absent,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Absent: no massive ice (1),Severe (3),12,High,60.38640087,-166.1890787
+Mentasta Lake,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.92939745,-143.7975757
+Minto,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,65.15219853,-149.3482737
+Mountain Village,*,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,62.08910067,-163.7285773
+Naknek,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,58.7330993,-157.0051788
+Nanwalek,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.35439856,-151.9201782
+Napakiak,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,60.69410025,-161.970878
+Napaskiak,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,60.70780022,-161.760778
+Nelson Lagoon,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.00119968,-161.2018805
+Nenana,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,64.56189844,-149.0882742
+New Stuyahok,*,2,3,2,2,2,Discontinuous,Warm,Medium, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),11,Medium,59.45029941,-157.3129784
+Newhalen,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.71979906,-154.8962781
+Newtok,**,2,3,3,1,3,Discontinuous,Warm,High,Absent,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Absent: no massive ice (1),Severe (3),12,High,60.93690069,-164.6293782
+Nightmute,**,2,3,3,2,2,Discontinuous,Warm,High, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,60.47700066,-164.7220785
+Nikolai,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,63.01349923,-154.3740757
+Nikolski,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,52.94010037,-168.8601826
+Ninilchik,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,60.04319857,-151.6757778
+Noatak,*,3,3,3,3,2,Continuous,Warm,High,Abundant,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Moderate (2),14,High,67.5718011,-162.9884721
+Nome,*,2,3,3,2,2,Discontinuous,Warm,High, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,64.49760119,-165.3840756
+Nondalton,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.96679907,-154.8569779
+Noorvik,*,3,3,3,3,3,Continuous,Warm,High,Abundant,Severe,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),15,High,66.83290069,-161.0436727
+Northway Village,*,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,62.98219714,-141.9516758
+Nuiqsut,*,3,1,3,3,3,Continuous,Cold,High,Abundant,Severe,Continuous (3),Cold: MAGT < -5°C (1),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),13,High,70.21719918,-150.9988673
+Nulato,**,2,3,2,1,3,Discontinuous,Warm,Medium,Absent,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Severe (3),11,Medium,64.7178,-158.1086745
+Nunam Iqua,**,2,3,3,1,3,Discontinuous,Warm,High,Absent,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Absent: no massive ice (1),Severe (3),12,High,62.53180089,-164.8480771
+Nunapitchuk,*,2,3,3,2,3,Discontinuous,Warm,High, Sparse,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Severe (3),13,High,60.89650035,-162.456578
+Old Harbor,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.20349862,-153.3058794
+Oscarville,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,60.72260022,-161.771378
+Ouzinkie,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.92249855,-152.507079
+Pedro Bay,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.78599894,-154.109278
+Perryville,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.91159938,-159.1433804
+Pilot Point,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.56409929,-157.5734795
+Pilot Station,**,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.93620052,-162.8919773
+Pitkas Point,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,62.03180059,-163.2869773
+Platinum,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.01200006,-161.817279
+Point Hope,*,3,2,1,1,1,Continuous,Cool,Low,Absent,Minimal,Continuous (3),Cool: MAGT = -5 – -2°C (2),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,68.34860182,-166.7346718
+Point Lay,**,3,1,3,3,3,Continuous,Cold,High,Abundant,Severe,Continuous (3),Cold: MAGT < -5°C (1),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),13,High,69.74400132,-163.0092692
+Port Graham,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.35149855,-151.8321782
+Port Heiden,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.9240994,-158.6612799
+Port Lions,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.86919861,-152.8788791
+Quinhagak,**,2,3,3,1,3,Discontinuous,Warm,High,Absent,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Absent: no massive ice (1),Severe (3),12,High,59.75160015,-161.8971786
+Rampart,*,3,3,2,1,2,Continuous,Warm,Medium,Absent,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),11,Medium,65.5033987,-150.1717733
+Red Devil,**,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,61.78229962,-157.3346769
+Ruby,**,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,64.74119955,-155.4669743
+Russian Mission,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.78580026,-161.3234772
+Saint George,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,56.60270091,-169.5436812
+Saint Mary's,*,2,3,2,1,1,Discontinuous,Warm,Medium,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Minimal or minor (1),9,Medium,62.05230058,-163.1810772
+Saint Michael,**,3,3,3,2,3,Continuous,Warm,High, Sparse,Severe,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Severe (3),14,High,63.47860054,-162.037076
+Saint Paul,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.12250108,-170.2795811
+Salamatof,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,60.61769855,-151.3333774
+Sand Point,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.35159951,-160.4755807
+Savoonga,**,3,3,3,2,2,Continuous,Warm,High, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),13,High,63.69650191,-170.4766771
+Saxman,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,55.31769535,-131.5944813
+Scammon Bay,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,61.84120093,-165.5818777
+Selawik,**,3,2,3,3,3,Continuous,Cool,High,Abundant,Severe,Continuous (3),Cool: MAGT = -5 – -2°C (2),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),14,High,66.6046005,-160.0118728
+Seldovia Village,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.47429853,-151.6499781
+Shageluk,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,62.65470005,-159.5327764
+Shaktoolik,*,1,2,1,1,1,Isolated,Cool,Low,Absent,Minimal,Isolated (1),Cool: MAGT = -5 – -2°C (2),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),6,Low,64.35380048,-161.1941752
+Shishmaref,*,3,2,1,1,1,Continuous,Cool,Low,Absent,Minimal,Continuous (3),Cool: MAGT = -5 – -2°C (2),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,66.25570149,-166.072674
+Shungnak,*,3,3,2,2,2,Continuous,Warm,Medium, Sparse,Moderate,Continuous (3),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,66.88810002,-157.1363722
+Sleetmute,**,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,61.70269958,-157.1703769
+South Naknek,*,1,3,2,1,2,Isolated,Warm,Medium,Absent,Moderate,Isolated (1),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),9,Medium,58.7132993,-157.0068788
+Stebbins,*,2,3,2,2,3,Discontinuous,Warm,Medium, Sparse,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Severe (3),12,High,63.51940058,-162.287676
+Stevens Village,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,66.00449854,-149.0844728
+Stony River,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,61.7871995,-156.5882768
+Takotna,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,62.98799951,-156.0619759
+Tanacross,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,63.3762974,-143.3559754
+Tanana,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,65.171199,-152.0878737
+Tatitlek,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,60.86849782,-146.6816772
+Tazlina,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,62.04739767,-145.4120764
+Teller,*,2,2,2,2,2,Discontinuous,Cool,Medium, Sparse,Moderate,Discontinuous (2),Cool: MAGT = -5 – -2°C (2),Medium: 0.2 - 0.7 m (2),Sparse: ice wedges & buried ice (2),Moderate (2),10,Medium,65.26370143,-166.3669751
+Tetlin,*,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,63.13799724,-142.5196756
+Togiak,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.05969985,-160.3774789
+Toksook Bay,**,2,3,3,2,2,Discontinuous,Warm,High, Sparse,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Moderate (2),12,High,60.53310072,-165.1089785
+Tuluksak,**,2,3,1,1,2,Discontinuous,Warm,Low,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Moderate (2),9,Medium,61.09870013,-160.9564777
+Tuntutuliak,**,2,3,3,2,3,Discontinuous,Warm,High, Sparse,Severe,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),High:  > 1 m (3),Sparse: ice wedges & buried ice (2),Severe (3),13,High,60.34280033,-162.6763783
+Tununak,**,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,60.58620075,-165.2513785
+Twin Hills,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.07509984,-160.2805789
+Tyonek,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,61.06809855,-151.1433771
+Ugashik,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,57.5084,-157.3998
+Umkumiute,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,60.4983,-165.199
+Unalakleet,**,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,63.87690037,-160.7947755
+Unalaska,***,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,53.87280018,-166.5300819
+Upper Kalskag,*,2,3,2,1,2,Discontinuous,Warm,Medium,Absent,Moderate,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Medium: 0.2 - 0.7 m (2),Absent: no massive ice (1),Moderate (2),10,Medium,61.53710007,-160.3122773
+Utqiaġvik,***,3,1,3,3,3,Continuous,Cold,High,Abundant,Severe,Continuous (3),Cold: MAGT < -5°C (1),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),13,High,71.28910033,-156.7684659
+Venetie,*,2,3,1,1,1,Discontinuous,Warm,Low,Absent,Minimal,Discontinuous (2),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,67.01669813,-146.4217717
+Wainwright,**,3,1,3,3,3,Continuous,Cold,High,Abundant,Severe,Continuous (3),Cold: MAGT < -5°C (1),High:  > 1 m (3),Abundant: large ice wedges and buried ice (3),Severe (3),13,High,70.64020087,-160.0276674
+Wales,*,3,2,1,1,1,Continuous,Cool,Low,Absent,Minimal,Continuous (3),Cool: MAGT = -5 – -2°C (2),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),8,Low,65.60520175,-168.086175
+White Mountain,*,1,3,1,1,1,Isolated,Warm,Low,Absent,Minimal,Isolated (1),Warm: MAGT = -2 – *0°C (3),Low: < 0.1 m (1),Absent: no massive ice (1),Minimal or minor (1),7,Low,64.68150088,-163.4118752
+Yakutat,*,0,0,0,0,0,None,None,None,None,None,None (0),None (0),None (0),None (0),None (0),0,None,59.54649664,-139.7227783
